@@ -1,0 +1,5 @@
+version: 1.0-SNAPSHOT
+api-version: 1.17
+name: TabRunner
+main: com.gmail.creepycucumber1.tabrunner.TabRunner
+author: longbread
